@@ -5,7 +5,7 @@
 - 🧠 Currently diving deeper into **React**, **WordPress Gutenberg blocks**, and custom UI component systems.
 - 💼 Working as a Front-End Developer Intern, building clean, responsive, and scalable interfaces.
 - 🌐 Practicing regularly by building and deploying personal projects.
-- 🚀 Exploring the world of AI-generated content and digital design assets.
+- 🚀 Exploring the world of AI-generated content and digital design assets. 
 
 ---
 
