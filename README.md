@@ -11,10 +11,10 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, PHP
-- **Frameworks & Libraries:** React, Tailwind CSS, WordPress (Gutenberg), BEM
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Tailwind CSS, WordPress (Gutenberg)
 - **Tools & Platforms:** Git, GitHub, Netlify, VS Code, Figma
-- **Other:** REST APIs, Responsive Design, Component Libraries
+- **Other:** Responsive Design, Component Libraries
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 📫 Let's Connect
 
-- Twitter: [@md_shahari35434](https://twitter.com/md_shahari35434)
+- Twitter: [@shahariar_codes](https://x.com/shahariar_codes)
 - GitHub: [shahariar270](https://github.com/shahariar270)
 
 ---
