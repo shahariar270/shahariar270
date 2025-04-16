@@ -25,11 +25,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Shahariar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahariar270&show_icons=true&theme=dracula)
-
----
 
 ## 📫 Let's Connect
 
