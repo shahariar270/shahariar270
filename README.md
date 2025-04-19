@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Shahariar
 
-🎯 A passionate **Front-End Developer** and creative problem solver from Bangladesh, currently living in Indonesia.
-
+🎯 A passionate **Front-End Developer** and creative problem solver from Bangladesh.
 - 🧠 Currently diving deeper into **React**, **WordPress Gutenberg blocks**, and custom UI component systems.
 - 💼 Working as a Front-End Developer Intern, building clean, responsive, and scalable interfaces.
 - 🌐 Practicing regularly by building and deploying personal projects.
