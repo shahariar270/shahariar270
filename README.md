@@ -13,7 +13,7 @@
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks & Libraries:** React, Tailwind CSS, WordPress (Gutenberg)
 - **Tools & Platforms:** Git, GitHub, Netlify, VS Code, Figma
-- **Other:** Responsive Design, Component Libraries
+- **Other:** Responsive Design, Component Libraries 
 
 ---
 
