@@ -23,6 +23,8 @@
 - 🧑‍💻 [My Portfolio Website](https://portfolio-shahariar.netlify.app/)
 
 ---
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shahariar270&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 ## 📫 Let's Connect
