@@ -23,7 +23,11 @@
 - 🧑‍💻 [My Portfolio Website](https://portfolio-shahariar.netlify.app/)
 
 ---
+## 🏆 GitHub Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shahariar270&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariar270&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
