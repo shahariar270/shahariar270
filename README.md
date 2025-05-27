@@ -1,18 +1,33 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shahariar
-=================================================================================================================================
 
-Jr. React Developer
--------------------
+![Profile Banner](https://camo.githubusercontent.com/4b25c58afaecc9e931e884c870e61a48dbd909d0cdb20f16cd6a57f6a2fd3d63/68747470733a2f2f692e6962622e636f2f6a794b483953672f4e6176792d426c75652d47656f6d65747269632d546563686e6f6c6f67792d4c696e6b65642d496e2d42616e6e65722e706e67)
 
-I'm passionate about building modern, responsive web applications using React and JavaScript. I enjoy learning new technologies and turning ideas into real-world, user-friendly solutions.
+# Hi there 👋 I'm Shahariar
 
-*   🌍  I'm based in Jhenaidah
-*   🖥️  See my portfolio at [https://portfolio-shahariar.netlify.app/](http://portfolio-shahariar.netlify.app/)
-*   ✉️  You can contact me at [shahariar.dev.270@gmail.com](mailto:shahariar.dev.270@gmail.com)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on Wordpress Plugin### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-                    </p>
-                    
-          
+🎯 A passionate **Front-End Developer** and creative problem solver from Bangladesh.
+- 🧠 Currently diving deeper into **React**, **WordPress Gutenberg blocks**, and custom UI component systems.
+- 💼 Working as a Front-End Developer, building clean, responsive, and scalable interfaces.
+- 🌐 Practicing regularly by building and deploying personal projects.
+- 🚀 Exploring the world of AI-generated content and digital design assets.  
+
+@@ -12,7 +14,7 @@
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Tailwind CSS, WordPress (Gutenberg)
+- **Tools & Platforms:** Git, GitHub, Netlify, VS Code, Figma, Varcel
+- **Other:** Responsive Design, Component Libraries 
+
+---
+@@ -29,14 +31,12 @@
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariar270&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+## 📫 Let's Connect
+
+- Twitter: [@shahariar_codes](https://x.com/shahariar_codes)
+- GitHub: [shahariar270](https://github.com/shahariar270)
+
+---
+
+> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
