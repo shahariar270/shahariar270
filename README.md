@@ -8,15 +8,12 @@
 - 🌐 Practicing regularly by building and deploying personal projects.
 - 🚀 Exploring the world of AI-generated content and digital design assets.  
 
-@@ -12,7 +14,7 @@
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks & Libraries:** React, Tailwind CSS, WordPress (Gutenberg)
 - **Tools & Platforms:** Git, GitHub, Netlify, VS Code, Figma, Varcel
 - **Other:** Responsive Design, Component Libraries 
 
----
-@@ -29,14 +31,12 @@
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariar270&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
