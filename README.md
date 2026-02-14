@@ -10,8 +10,8 @@
 
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Tailwind CSS, WordPress (Gutenberg)
-- **Tools & Platforms:** Git, GitHub, Netlify, VS Code, Figma, Varcel
+- **Frameworks & Libraries:** React, Tailwind CSS, WordPress (Gutenberg), NodeJS, mongoDB , ExpressJS
+- **Tools & Platforms:** Git, GitHub, Netlify, VS Code, Figma, Varcel, chakra UI
 - **Other:** Responsive Design, Component Libraries 
 
 ## 📊 Top Languages
