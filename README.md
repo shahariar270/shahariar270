@@ -2,11 +2,17 @@
 
 # Hi there 👋 I'm Shahariar
 
-🎯 A passionate **Front-End Developer** and creative problem solver from Bangladesh.
-- 🧠 Currently diving deeper into **React**, **WordPress Gutenberg blocks**, and custom UI component systems.
-- 💼 Working as a Front-End Developer, building clean, responsive, and scalable interfaces.
-- 🌐 Practicing regularly by building and deploying personal projects.
-- 🚀 Exploring the world of AI-generated content and digital design assets.  
+I'm a **Full-Stack Developer** who enjoys solving complex problems with thoughtful engineering and AI-powered workflows. I believe AI accelerates development, but strong engineering fundamentals are what build reliable software.
+
+* 🧠 Passionate about system design, clean architecture, and building software that lasts.
+* ⚡ Building scalable full-stack applications with the **MERN Stack**.
+* 🤖 Leveraging AI as a development accelerator for research, debugging, and rapid prototyping.
+* 🛠️ Focused on writing maintainable, secure, and high-quality code.
+* 🔍 Enjoy turning complex requirements into simple, user-friendly solutions.
+* 📚 Continuously learning software engineering, cybersecurity, and modern development practices.
+* 🚀 Building real-world projects while constantly refining my development workflow.
+
+> *"AI can generate code. Engineering creates solutions."*
 
 
 ## 🌐 Socials:
